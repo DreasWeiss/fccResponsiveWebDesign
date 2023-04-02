@@ -11,9 +11,14 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
 ## Courses
-| course | path | done | solution |
-| --- | --- | --- | --- |
-| [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/) | | ✅ |  |
-| [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) | | ✅ | |
-| Learn CSS Colors by Building a Set of Colored Markers | | ✅ | |
-| [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/) | |  | |
+| course | done |
+| --- | --- |
+| [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/) | ✅ |
+| [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) | ✅ |
+| Learn CSS Colors by Building a Set of Colored Markers | ✅ |
+| [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/) | |
+
+
+## Certification projects
+| project | link | github | github pages | done |
+| --- | --- | --- | --- | --- |
