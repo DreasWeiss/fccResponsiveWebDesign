@@ -22,4 +22,4 @@ Finally, you'll learn how to make webpages that respond to different screen size
 ## Certification projects
 | project | solution(link) | github | github pages | done |
 | --- | --- | --- | --- | --- |
-| [Build a Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) | | [github](https://github.com/DreasWeiss/fccBuildASurveyForm) | |
+| [Build a Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) | - | [github](https://github.com/DreasWeiss/fccBuildASurveyForm) | - | ✅ |
