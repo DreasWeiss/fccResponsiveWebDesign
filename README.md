@@ -18,6 +18,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 | Learn CSS Colors by Building a Set of Colored Markers | ✅ |
 | [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/) | ✅ |
 | [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/) | ✅ |
+| [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/) |  |
 
 
 ## Certification projects
