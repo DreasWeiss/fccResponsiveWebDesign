@@ -27,4 +27,4 @@ Finally, you'll learn how to make webpages that respond to different screen size
 | project | solution(link) | github | github pages | done |
 | --- | --- | --- | --- | --- |
 | [Build a Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) | - | [github](https://github.com/DreasWeiss/fccBuildASurveyForm) | - | ✅ |
-| [Build a Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) | - | [github]() | - | ✅ |
+| [Build a Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) | - | [github](https://github.com/DreasWeiss/fccTributePage) | [link](https://dreasweiss.github.io/fccTributePage/) | ✅ |
